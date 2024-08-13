@@ -4,3 +4,6 @@
 [submodule "GIT302PRAC"]
 	path = Week2/Git302Prac
 	url = git@github.com:ZachCraw/Git302Prac.git
+[submodule "CAB302HOMEWORK"]
+	path = Homework/CAB302HOMEWORK
+	url = git@github.com:ZachCraw/CAB302HOMEWORK.git
