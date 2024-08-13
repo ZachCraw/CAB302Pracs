@@ -1,0 +1,6 @@
+# Abstraction
+Abstraction is the process of hiding the implementation details of a class, and only exposing the essential information to the outside world. This is usually achieved by providing an application programming interface (API), which defines the methods that can be used to interact with the class. The API allows the class to be consumed by other classes, without exposing the internal implementation details.
+
+An important part of an API is the method signature. This consists of the method name, the parameters, and the return type. This information is essential for any class that wants to use the methods of the API, but does not include implementation details - which is hidden as part of the abstraction principle.
+
+If we treat a class as a contract, the method signatures are the terms of the contract, where the class promises to deliver a certain functionality. Such a contract can be defined using an interface, which is a special type of class that only contains method signatures, without implementation.
