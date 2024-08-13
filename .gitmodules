@@ -1,0 +1,6 @@
+[submodule "Week2/--force"]
+	path = Week2/--force
+	url = git@github.com:ZachCraw/Git302Prac.git
+[submodule "GIT302PRAC"]
+	path = Week2/Git302Prac
+	url = git@github.com:ZachCraw/Git302Prac.git
